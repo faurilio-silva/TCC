@@ -1,2 +1,3 @@
-# TCC
-Monografia de defesa de curso de bacharelado em Biomedicina da Universidade Guarulhos
+<h3 align="center">A CINTIGRAFIARENAL ESTÁTICA (<sup>99M</sup>TC-DMSA) NO DIAGNÓSTICO PEDIÁTRICO:<br />REVISÃO DE LITERATURA</h3><br />
+
+> ##### Monografia de defesa de curso de bacharelado em Biomedicina da Universidade Guarulhos<br /><br />Descrição: Revisão sistemática e análise dos dados provenientes do banco público PubMed, focando no uso da cintilografia com <sup>99m</sup>Tc-DMSA no diagnóstico de nefropatias na fase pré- e pós-natal (infância).<br /><br />Autor: Francisco Aurílio da Silva<br /><br />Colaboração na elaboração do script: MSc. Cainã Max Couto-Silva<br /><br /><br />Data: 21 de novembro de 2017.
